@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<Request>
+    <key>pKcW-o0Cp-mblF-H155</key>
+    <paymentParameters>
+        <paymentMethod>creditCard</paymentMethod>
+        <cardNumber>4117394016907502</cardNumber>
+        <expirationDate>
+            <month>09</month>
+            <year>20</year>
+        </expirationDate>
+        <cvv>123</cvv>
+        <email>me@curious.com</email>
+    </paymentParameters>
+</Request>

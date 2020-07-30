@@ -1,0 +1,13 @@
+{
+  "key": "pKcW-o0Cp-mblF-H155",
+  "paymentParameters": {
+    "paymentMethod": "creditCard",
+    "cardNumber": "4117394016907502",
+    "expirationDate": {
+      "month": "09",
+      "year": "20"
+    },
+    "cvv": "123",
+    "email": "me@curious.com"
+  }
+}
